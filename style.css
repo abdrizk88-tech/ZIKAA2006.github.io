@@ -1,0 +1,23 @@
+body {
+    background: linear-gradient(135deg, #ffecb3, #b3e5fc);
+    font-family: 'Cairo', sans-serif;
+    text-align: center;
+}
+h1 {
+    color: #388e3c;
+    margin-top: 50px;
+}
+button {
+    padding: 10px 20px;
+    background: #fbc02d;
+    border: none;
+    border-radius: 8px;
+    color: #fff;
+    font-size: 18px;
+    cursor: pointer;
+    margin: 20px 0;
+}
+p {
+    color: #0288d1;
+    font-size: 22px;
+}
